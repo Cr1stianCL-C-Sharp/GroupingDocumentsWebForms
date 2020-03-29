@@ -1,0 +1,41 @@
+﻿
+#IframeDocument{
+    padding-left:1cm;
+    padding-right:1cm;
+    border-left:15px;
+    border-right:15px;
+    height:700px;
+    width:800px;
+    border-color:red;
+    align-self:center;
+}
+
+#FileUpload1 {
+    width:350px;
+    padding-left:1cm;
+}
+#labelupload {
+    padding-left:1cm;
+}
+#lblSuccess {
+    padding-left:1cm;
+}
+button {
+    border:groove;   
+}
+#btnOpciones {
+    padding-top:100px;
+    padding-left:50px;
+}
+#ComentariosAyuda {
+    padding-top:80px;
+    padding-left:20px; 
+}
+
+/*
+#slider-thumbs{
+    padding-top:300px; 
+}
+#slider{
+    padding-top:300px; 
+}*/

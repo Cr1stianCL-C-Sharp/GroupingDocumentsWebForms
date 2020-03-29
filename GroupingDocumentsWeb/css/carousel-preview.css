@@ -1,0 +1,21 @@
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:100px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;   
+}
+
+.carousel-inner{
+    margin-top:50px;
+}
+
+.myCarousel{
+    margin-top:50px;
+}
